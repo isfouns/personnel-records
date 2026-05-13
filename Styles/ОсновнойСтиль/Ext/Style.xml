@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Style xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Item name="FormBackColor">
+		<Color>#FCFCFC</Color>
+	</Item>
+	<Item name="ButtonBackColor">
+		<Color>#7BBFF5</Color>
+	</Item>
+	<Item name="ButtonTextColor">
+		<Color>#FFFFFF</Color>
+	</Item>
+	<Item name="FieldTextColor">
+		<Color>#000000</Color>
+	</Item>
+	<Item name="FieldSelectionBackColor">
+		<Color>#87D6FF</Color>
+	</Item>
+	<Item name="FieldSelectedTextColor">
+		<Color>#02005B</Color>
+	</Item>
+	<Item name="FieldAlternativeBackColor">
+		<Color>style:FieldAlternativeBackColor</Color>
+	</Item>
+	<Item name="ToolTipBackColor">
+		<Color>#EEDFFF</Color>
+	</Item>
+	<Item name="SpecialTextColor">
+		<Color>#FF0000</Color>
+	</Item>
+	<Item name="NegativeTextColor">
+		<Color>#FF0000</Color>
+	</Item>
+	<Item name="BorderColor">
+		<Color>#858585</Color>
+	</Item>
+	<Item name="ReportHeaderBackColor">
+		<Color>#B6DAF4</Color>
+	</Item>
+	<Item name="ReportGroup1BackColor">
+		<Color>#D6F1F8</Color>
+	</Item>
+	<Item name="ReportGroup2BackColor">
+		<Color>#E0E3FB</Color>
+	</Item>
+	<Item name="ReportLineColor">
+		<Color>#1D195D</Color>
+	</Item>
+	<Item name="TextFont">
+		<Font ref="style:TextFont" kind="StyleItem"/>
+	</Item>
+	<Item name="ButtonBorderColor">
+		<Color>#0E2234</Color>
+	</Item>
+	<Item name="TableHeaderBackColor">
+		<Color>#B6DAF4</Color>
+	</Item>
+	<Item name="TableHeaderTextColor">
+		<Color>#264659</Color>
+	</Item>
+	<Item name="TableFooterBackColor">
+		<Color>#7FC1F5</Color>
+	</Item>
+	<Item name="TableFooterTextColor">
+		<Color>#0D0C59</Color>
+	</Item>
+	<Item name="ActivityColor">
+		<Color>#685FFA</Color>
+	</Item>
+	<Item name="AccentColor">
+		<Color>#EF0000</Color>
+	</Item>
+	<Item name="NavigationColor">
+		<Color>#CCEEFB</Color>
+	</Item>
+	<Item name="AuxiliaryNavigationColor">
+		<Color>#D0C9FF</Color>
+	</Item>
+	<Item name="ImportantColor">
+		<Color>#9F9AFF</Color>
+	</Item>
+</Style>
